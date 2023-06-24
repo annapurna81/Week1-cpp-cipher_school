@@ -1,1 +1,15 @@
 
+c:\User\admin> git
+
+c:\User\admin> git --version
+
+c:\User\admin> git clone https://github.com/annapurna81/Week1-cpp-cipher_school.git
+
+
+c:\User\admin> cd desktop
+
+
+c:\User\admin\Desktop> cd Week1-cpp-cipher_school
+
+c:\User\admin\Desktop\cd Week1-cpp-cipher_school>code
+
